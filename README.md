@@ -5,16 +5,16 @@ Diploma in Information and Communication Technology
 **Subject:** Project Presentation 3  
 **Assessment Week:** 19 May – 23 May 2025
 
-## 📘 1. Career Counselling
+## 1. Career Counselling
 
-### 📄 Evidence
+###  Evidence
 ![Alt text for image](![CAREER DEVELOPMENT PP](https://github.com/user-attachments/assets/4392a276-2f55-4538-8090-57e39decca4d)
 )
 )
 
 
 
-### ✍ Reflection (STAR Technique)
+### Reflection (STAR Technique)
 **Situation:**  
 In early February 2025, I participated in the Career Development module as part of the PRP370S course.
 
@@ -27,17 +27,17 @@ I researched job portals, attended a virtual career counselling session, and wro
 **Result:**  
 I gained a clearer understanding of career paths in networking and cloud computing, and I created a goal map that I will use to stay focused during my final year and after graduation.
 
-## 🎯 2. Skills and Interests
+## 2. Skills and Interests
 
-### 📄 Evidence
-![Alt text for image](![SKILLS AND INTEREST PP](https://github.com/user-attachments/assets/e885626a-3427-4106-9ec5-d554011eef76)
-)
+###  Evidence
+![Alt text for image](![SKILLS and INTEREST](https://github.com/user-attachments/assets/84d1cd19-bf9b-40b2-8940-89c7c7055c58)
 
-### ✍ Reflection (STAR Technique)
+
+### Reflection (STAR Technique)
 **Situation:**  
 As part of the PRP370S Work Readiness module, I completed an online course titled “Skills and Interests” in February 2025. The activity was designed to help me explore my personal values, interests, and transferable skills.
 
-**Task:**  
+**Task:** 
 The objective was to understand how my values and interests influence career choices and to identify skills that I can apply across different roles within the ICT field.
 
 **Action:**  
@@ -48,13 +48,13 @@ By completing the course, I gained a better understanding of the skills I alread
 
 ---
 
-## 🧠 3. Personality Assessment
+## 3. Personality Assessment
 
-### 📄 Evidence
+### Evidence
 ![Alt text for image](![PERSONALITY ASSESSMENT PP](https://github.com/user-attachments/assets/a9505bbf-c7a9-4c72-abeb-e321b4badb47)
 )
 
-### ✍ Reflection (STAR Technique)
+###  Reflection (STAR Technique)
 **Situation:**  
 In February 2025, I completed a Personality and Career Matching assessment as part of the PRP370S Work Readiness module.
 
@@ -69,13 +69,13 @@ I scored 100% on the assessment, which confirmed my understanding of personality
 
 ---
 
-## 📄 4. Create a CV
+##  4. Create a CV
 
-### 📄 Evidence
+### Evidence
 ![Alt text for image](![CREATE A CV PP](https://github.com/user-attachments/assets/3c0e354b-5b96-4105-b4e1-5d9fa0d17912)
 )
 
-### ✍ Reflection (STAR Technique)
+### Reflection (STAR Technique)
 **Situation:**  
 As part of the Career Development component of the PRP370S Work Readiness module, I completed the “Create a CV” training and quiz in February 2025.
 
@@ -90,10 +90,10 @@ I created a professional CV titled `XP_Nohashe_CV&SUPPORTING.docx`, which I late
 
 ---
 
-## 📬 5. CV Submission
+##  5. CV Submission
 
-### 📄 Evidence
-[Download My CV](https://github.com/wil-it2025/cv-tutorial-22Xoli/blob/893022dca3dd3e85b4ecfcb0685be7e989697ea5/XP_Nohashe_CV%26SUPPORTING%20DOCS.pdf)
+### Evidence
+[Download My CV](https://github.com/wil-it2025/cv-tutorial-22Xoli/blob/893022dca3dd3e85b4ecfcb0685be7e989697ea5/XP_Nohashe_CV%26SUPPORTING%20DOCS.pdf?raw=true)
 
 
 
@@ -102,7 +102,7 @@ I created a professional CV titled `XP_Nohashe_CV&SUPPORTING.docx`, which I late
 After completing my CV, I needed to submit the final version for assessment.
 
 **Task:**  
-The objective was to submit a completed, professional CV that demonstrates my skills and readiness for employment.
+The objective was to submit a completed, professional CV demonstrating my skills and readiness for employment.
 
 **Action:**  
 I uploaded my CV file to my GitHub repository and submitted the link on Blackboard as instructed.
