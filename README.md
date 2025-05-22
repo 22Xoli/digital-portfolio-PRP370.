@@ -8,55 +8,59 @@ Diploma in Information and Communication Technology
 ## 1. Career Counselling
 
 ###  Evidence
-![Alt text for image](![CAREER DEVELOPMENT PP](https://github.com/user-attachments/assets/4392a276-2f55-4538-8090-57e39decca4d)
-)
-)
+![CAREER DEVELOPMENT PP](https://github.com/user-attachments/assets/4392a276-2f55-4538-8090-57e39decca4d)
 
 
 
 ### Reflection (STAR Technique)
+
 **Situation:**  
-In early February 2025, I participated in the Career Development module as part of the PRP370S course.
+ 
+On February 5, 2025, I participated in the Career Development module as part of the PRP370S course.
 
 **Task:**  
-I was required to explore career opportunities in the ICT field and identify my own career goals.
+I needed to explore career opportunities in the ICT field and identify my personal career goals.
 
 **Action:**  
-I researched job portals, attended a virtual career counselling session, and wrote a career action plan outlining my short- and long-term goals.
+I researched job portals, attended a virtual career counseling session, and created a career action plan outlining both my short-term and long-term goals.
 
 **Result:**  
-I gained a clearer understanding of career paths in networking and cloud computing, and I created a goal map that I will use to stay focused during my final year and after graduation.
+I gained a clearer understanding of career paths in networking and cloud computing. Additionally, I developed a goal map that I will use to stay focused during my final year and after graduation.
 
 ## 2. Skills and Interests
 
 ###  Evidence
-![Alt text for image](![SKILLS and INTEREST](https://github.com/user-attachments/assets/84d1cd19-bf9b-40b2-8940-89c7c7055c58)
+![SKILLS and INTEREST](https://github.com/user-attachments/assets/84d1cd19-bf9b-40b2-8940-89c7c7055c58)
 
 
 ### Reflection (STAR Technique)
-**Situation:**  
-As part of the PRP370S Work Readiness module, I completed an online course titled “Skills and Interests” in February 2025. The activity was designed to help me explore my personal values, interests, and transferable skills.
 
-**Task:** 
-The objective was to understand how my values and interests influence career choices and to identify skills that I can apply across different roles within the ICT field.
+**Situation:**  
+
+On 11-February-2025, as part of the PRP370S Work Readiness module, I successfully completed an online course titled "Skills and Interests." This course was designed to help me delve into my personal values, interests, and transferable skills.
+
+**Task:**  
+The objective was to comprehend how my values and interests shape my career choices and to identify the skills I can leverage across various roles in the ICT field.
 
 **Action:**  
-I engaged with various learning modules and quiz activities in the course. These included topics such as “What are values?”, “Skills and transferable skills,” and “How interests and values influence career decisions.” I completed all sections and reflected on my strengths and preferences through the questions provided.
+I engaged thoroughly with the learning modules and quiz activities included in the course. These modules addressed topics such as "What Are Values?", "Skills and Transferable Skills," and "How Interests and Values Influence Career Decisions." I completed all sections and took the opportunity to reflect on my strengths and preferences in response to the provided questions.
 
 **Result:**  
-By completing the course, I gained a better understanding of the skills I already possess—like communication and critical thinking—and how they align with careers in IT and networking.
+By completing the course, I gained a deeper understanding of the skills I possess—such as communication and critical thinking—and how they correlate with potential careers in IT and networking.
 
 ---
 
 ## 3. Personality Assessment
 
 ### Evidence
-![Alt text for image](![PERSONALITY ASSESSMENT PP](https://github.com/user-attachments/assets/a9505bbf-c7a9-4c72-abeb-e321b4badb47)
-)
+![PERSONALITY ASSESSMENT PP](https://github.com/user-attachments/assets/a9505bbf-c7a9-4c72-abeb-e321b4badb47)
+
 
 ###  Reflection (STAR Technique)
+
 **Situation:**  
-In February 2025, I completed a Personality and Career Matching assessment as part of the PRP370S Work Readiness module.
+
+On 17-February-2025, I completed a Personality and Career Matching assessment as part of the PRP370S Work Readiness module.
 
 **Task:**  
 The goal of the task was to explore my characteristics and identify career options that suit my personality.
@@ -72,11 +76,13 @@ I scored 100% on the assessment, which confirmed my understanding of personality
 ##  4. Create a CV
 
 ### Evidence
-![Alt text for image](![CREATE A CV PP](https://github.com/user-attachments/assets/3c0e354b-5b96-4105-b4e1-5d9fa0d17912)
-)
+![CREATE A CV PP](https://github.com/user-attachments/assets/3c0e354b-5b96-4105-b4e1-5d9fa0d17912)
+
 
 ### Reflection (STAR Technique)
-**Situation:**  
+
+**Situation:**
+
 As part of the Career Development component of the PRP370S Work Readiness module, I completed the “Create a CV” training and quiz in February 2025.
 
 **Task:**  
@@ -97,17 +103,18 @@ I created a professional CV titled `XP_Nohashe_CV&SUPPORTING.docx`, which I late
 
 
 
-### ✍ Reflection (STAR Technique)
+### Reflection (STAR Technique)
+
 **Situation:**  
-After completing my CV, I needed to submit the final version for assessment.
+
+After finalizing my CV, I was required to submit the final version for assessment.
 
 **Task:**  
-The objective was to submit a completed, professional CV demonstrating my skills and readiness for employment.
+The objective was to present a well-crafted, professional CV that effectively highlighted my skills and readiness for employment.
 
 **Action:**  
-I uploaded my CV file to my GitHub repository and submitted the link on Blackboard as instructed.
+I uploaded my CV file to my GitHub repository and provided the link on Blackboard as per the instructions.
 
 **Result:**  
-The submission was successful. Hosting the CV on GitHub enhanced my understanding of digital portfolios and will be useful when applying for future roles.
+The submission was successful. Hosting my CV on GitHub not only enhanced my understanding of digital portfolios but also will be beneficial for future job applications.
 
----
