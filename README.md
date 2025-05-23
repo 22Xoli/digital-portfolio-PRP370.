@@ -99,7 +99,7 @@ I created a professional CV titled `XP_Nohashe_CV&SUPPORTING.docx`, which I late
 ##  5. CV Submission
 
 ### Evidence
-[Download My CV](https://github.com/wil-it2025/cv-tutorial-22Xoli/blob/main/XP_Nohashe_CV%26SUPPORTING%20DOCS.pdf?raw=true)
+https://github.com/22Xoli/digital-portfolio-PRP370./blob/main/XP_Nohashe_CV%26SUPPORTING%20DOCS.pdf
 
 
 
